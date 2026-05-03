@@ -1,1 +1,19 @@
 # TEXT-SUMMARIZATION-TOOL
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SEELA ROHITH REDDY
+
+*INTERN ID*: CTIS6994
+
+*DOMAIN*: ARTIFICIAL INTELLIGENCE
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
+
+#OUTPUT
+
+<img width="985" height="378" alt="Image" src="https://github.com/user-attachments/assets/4aa9ca8d-38bc-4c86-9129-9ee364ea957c" />
